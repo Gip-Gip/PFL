@@ -1,6 +1,6 @@
 The Public File License
 
-Copyright(author's name) (date copyrightd)
+Copyright (author's name) (date copyrightd)
 
 Definitions:
 File - a named group of digital data that can be transferred and used
