@@ -1,15 +1,15 @@
 The Public File License
 
-Copyright (author's name) (date copyrightd)
+Copyright (author's name) (date copyrighted)
 
 Definitions:
 File - a named group of digital data that can be transferred and used
 
 The copyright holder of the file (filename) has declared that the file and
 everything taken from it, unless stated otherwise, is free for any use by any
-one, with the exception of preventing the free use of the file and/or the file's
-derivatives, including but not limited to patenting and/or claiming further
-copyright on the file and/or the file's derivatives.
+one, with the exception of preventing the free use of the file and/or the
+file's derivatives, including but not limited to patenting and/or claiming
+further copyright on the file and/or the file's derivatives.
 
 THE FILE (filename) IS PROVIDED WITHOUT ANY WARRANTY OR GUARANTEE AT ALL. THE
 AUTHOR(S) ARE NOT LIABLE FOR CLAIMS, DAMAGES, OR REALLY ANYTHING ELSE IN
