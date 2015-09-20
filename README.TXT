@@ -1,8 +1,9 @@
 The Public File License
 
-Copyright (author's name) (date copyrighted)
+Copyright (author's name), (year copyrighted)
 
-A file is a named group of digital data that can be transferred and used.
+In this case, a file in this case is a group of digital data that can be
+transferred and used
 
 The copyright holder of the file (filename) has declared that the file and
 everything taken from it, unless stated otherwise, is free for any use by any
