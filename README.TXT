@@ -2,8 +2,8 @@ The Public File License
 
 Copyright (author's name), (year copyrighted)
 
-In this case, a file in this case is a group of digital data that can be
-transferred and used
+In this case, a file is a group of digital data that can be transferred and
+used.
 
 The copyright holder of the file (filename) has declared that the file and
 everything taken from it, unless stated otherwise, is free for any use by any
