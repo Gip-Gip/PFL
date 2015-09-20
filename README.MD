@@ -4,8 +4,8 @@ The Public File License is a simple and permissive license that, unlike MIT or
 BSD, does not require you to supply a copy of the license with the file
 (granted, you should still do that) and allows anyone to do anything with your
 file and anything taken from that file, as long as that isn't patenting or
-claiming further copyright on it. It was made by an average joe, so it should
-be relitivly easy to understand. If you notice something that doesn't make any
+claiming further copyright on it. It was made by an average Joe, so it should
+be relatively easy to understand. If you notice something that doesn't make any
 sense, you can raise an issue and I will get it fixed! Here's a small list of
 what PFL is:
 
