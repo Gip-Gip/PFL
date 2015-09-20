@@ -2,8 +2,7 @@ The Public File License
 
 Copyright (author's name) (date copyrighted)
 
-Definitions:
-File - a named group of digital data that can be transferred and used
+A file is a named group of digital data that can be transferred and used.
 
 The copyright holder of the file (filename) has declared that the file and
 everything taken from it, unless stated otherwise, is free for any use by any
