@@ -22,7 +22,7 @@ file itself, if you can.
 
 #The License Itself
 
-	The Public File License
+	The Public File License (see https://github.com/Gip-Gip/PFL for info)
 	
 	Copyright (author's name), (date licensed)
 	
