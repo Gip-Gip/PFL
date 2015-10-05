@@ -31,10 +31,9 @@ file itself, if you can.
 
 	The copyright holder of the file (filename) has declared that the file and
 	everything taken from it, unless stated otherwise, is free for any use by any
-	one, with the exception of preventing the free use of the unmodified file
-	and/or the unmodified file's derivatives, including but not limited
-	to patenting and/or claiming further copyright on the unmodified file and/or
-	the unmodified file's derivatives.
+	one, with the exception of preventing the free use of the unmodified file, 
+	including but not limited to patenting and/or claiming further copyright on
+	the unmodified file.
 	
 	THE FILE (filename) IS PROVIDED WITHOUT ANY WARRANTY OR GUARANTEE AT ALL. THE
 	AUTHOR(S) ARE NOT LIABLE FOR CLAIMS, DAMAGES, OR REALLY ANYTHING ELSE IN
