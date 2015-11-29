@@ -26,8 +26,8 @@ the license inside the file itself, if you can.
 
     Copyright (author's name), (date license)
 
-    In this case, a file is a group of digital data that can be transferred
-    and used.
+    In this case, a file is a named group of digital data that can be
+    transferred and used.
 
     The copyright holder of the file (filename) has declared that the file
     and everything taken from it, unless stated otherwise, is free for any
